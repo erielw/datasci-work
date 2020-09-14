@@ -1,2 +1,2 @@
 # datasci-work
-Data science work, fall 2020
+This repository has been created with the purpose of cataloguing and storing Eriel W's Data Science classwork for the Fall semester of 2020.
